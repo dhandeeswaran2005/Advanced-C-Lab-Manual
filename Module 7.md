@@ -286,10 +286,12 @@ int main()
 
 
 Output:
+
+
 ![Screenshot 2025-04-25 102335](https://github.com/user-attachments/assets/ef5e799b-ae37-4a7d-8f66-43313c5e19f9)
 
 
-//paste your output here
+
 
 
 
