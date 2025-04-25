@@ -66,8 +66,9 @@ printf("Greater than 13");
 }
 ```
 Output:
+![Screenshot 2025-04-25 111040](https://github.com/user-attachments/assets/896a1264-a628-4321-ad6f-236250d0707d)
 
-Screenshot 2025-04-25 105029
+
 
 Result: Thus, the program is verified successfully
 
@@ -100,8 +101,9 @@ printf("%d ",c); h++;
 ```
 
 Output:
+![Screenshot 2025-04-25 110726](https://github.com/user-attachments/assets/36a45070-894c-4794-b0a0-7d6b7e71f4c9)
 
-Screenshot 2025-04-25 105156
+
 
 Result: Thus, the program is verified successfully
 
@@ -166,8 +168,9 @@ free(s); return 0;
 }
 ```
 Output:
+![Screenshot 2025-04-25 110735](https://github.com/user-attachments/assets/ae46f64a-9dc0-444a-b2f1-527745c45369)
 
-Screenshot 2025-04-25 105355
+
 
 Result: Thus, the program is verified successfully
 
@@ -199,7 +202,8 @@ return 0;
 ```
 Output:
 
-Screenshot 2025-04-25 105508
+![Screenshot 2025-04-25 110746](https://github.com/user-attachments/assets/8e553538-b576-47ac-8de6-b97782835402)
+
 
 Result: Thus, the program is verified successfully
 
@@ -235,7 +239,8 @@ void square(){
 
 Output:
 
-Screenshot 2025-04-25 105614
+![Screenshot 2025-04-25 110757](https://github.com/user-attachments/assets/92337442-6036-476a-bc2f-9302feada063)
+
 
 Result: Thus, the program is verified successfully
 
